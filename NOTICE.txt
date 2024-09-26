@@ -1,6 +1,6 @@
 ﻿This project contains code from Idaho National Laboratory.
 Github URL: https://github.com/idaholab/PANDA
-Licensed under AGPL
+Licensed under AGPL v3
 
 
 © 2024 Battelle Energy Alliance, LLC
