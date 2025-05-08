@@ -38,8 +38,7 @@ Inference of dislocation defects using transmission electron microscopy on three
 ## Current Papers Using PANDA: 
 | Title | DOI |
 |-------|-----|
-Paper that introduces PANDA: | `Quantifying dislocation-type defects in post irradiation examination via transfer learning`| https://doi.org/10.1038/s41598-025-00238-5 |
-
+ | `Quantifying dislocation-type defects in post irradiation examination via transfer learning`| https://doi.org/10.1038/s41598-025-00238-5 |
 | `Microstructure of Neutron-Irradiated Al3Hf-Al Thermal Neutron Absorber Materials`|  https://doi.org/10.3390/ma18040833 |
 
 
