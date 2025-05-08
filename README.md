@@ -17,6 +17,9 @@ This work approaches dislocation-type defect identification and segmentation usi
 
 Inference of dislocation defects using transmission electron microscopy on three different irradiated alloys relevant to the nuclear energy industry are examined in this work with widely varying pixel noise levels and with completely unrelated composition and dislocation formations for practical post irradiation examination analysis.
 
+## Cite PANDA
+`Wu, M., Sharapov, J., Anderson, M. et al. Quantifying dislocation-type defects in post irradiation examination via transfer learning. Sci Rep 15, 15889 (2025). https://doi.org/10.1038/s41598-025-00238-5`
+
 
 ## Example PANDA Predictions
 ### Prediction Key
@@ -40,7 +43,6 @@ Inference of dislocation defects using transmission electron microscopy on three
 |-------|-----|
  | `Quantifying dislocation-type defects in post irradiation examination via transfer learning`| https://doi.org/10.1038/s41598-025-00238-5 |
 | `Microstructure of Neutron-Irradiated Al3Hf-Al Thermal Neutron Absorber Materials`|  https://doi.org/10.3390/ma18040833 |
-
 
 ## Try PANDA And Browse Datasets Online Via NRDS Website
 The Nuclear Research Data Search (NRDS) site is a public-facing, long-term data storage solution and science data gateway featuring integrated compute resources such as artificial intelligence enabled hardware, and access to graphics processing units (GPUs). Operated out of the US Department of Energy Office of Nuclear Energy's Nuclear Science User Facilities (NSUF) program, NRDS takes publicly funded data from NSUF research and makes it accessible to the public without requiring a paywall or account and ensure all data meets the pFAIRe criteria.
